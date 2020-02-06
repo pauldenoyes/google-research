@@ -4,6 +4,8 @@ This package contains libraries and scripts for reproducing the results
 described in Zhou Z, Kearnes S, Li L, Zare RN, Riley P. Optimization of
 Molecules via Deep Reinforcement Learning; http://arxiv.org/abs/1810.08678.
 
+Une bonne explications du modèle général ici : https://www.nature.com/articles/s41598-019-47148-x
+
 The main library functions, such as the MDP definition in
 `chemgraph/mcts/molecules.py`, are of primary interest.
 
