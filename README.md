@@ -14,3 +14,5 @@ git clone git@github.com:google-research/google-research.git --depth=1
 ---
 
 *Disclaimer: This is not an official Google product.*
+
+Note : Pour mol_dqn, une bonne explications du modèle général ici : https://www.nature.com/articles/s41598-019-47148-x
